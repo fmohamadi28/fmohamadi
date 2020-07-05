@@ -8,3 +8,6 @@ body .test{
   height: 100px;
   width: 100px;
 }
+ul{
+  padding: 0;
+}
