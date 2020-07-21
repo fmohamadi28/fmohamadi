@@ -1,14 +1,45 @@
 body .test{
   margin: 0 auto;
 }
-#test2{
- margin: 10px;
+#main{
+  height: 600px;
+  width: 1000px;
+  margin-left: 300px;
+  margin-top: 300px;
+  border: 2px solid #fff;
 }
-#mainImg{
+#main .redSquare{
+  height: 300px;
+  width: 300px;
+  border: 2px solid #000000;
+  display: inline-block;
+  margin-left: 350px;
+  margin-top: 150px;
+  background-color: #f50057;
+}
+#main .blueSquare{
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  margin-left: 50px;
+  margin-top: 50px;
+  background-color: #2196f3;
+}
+#main .yellowSquare{
   height: 100px;
   width: 100px;
+  display: inline-block;
+  margin-left: 50px;
+  margin-top: 50px;
+  background-color: #ffea00;
 }
-ul{
-  padding: 0;
-  margin: 0;
+#main .greenSquare{
+  height: 50px;
+  width: 50px;
+  display: inline-block;
+  margin-left: 25px;
+  margin-top: 25px;
+  background-color: #4caf50;
 }
+=======
+>>>>>>> 781c997... add style test2 va main img
